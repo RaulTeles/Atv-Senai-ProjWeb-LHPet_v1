@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "HmD3/0QQMUfbgGBG74ocs8zOFRFiXME2ShvP2duxdM0=",
+  "Source": "AtivProjLHPet",
+  "BasePath": "_content/AtivProjLHPet",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AtivProjLHPet\\wwwroot",
+      "Source": "AtivProjLHPet",
+      "ContentRoot": "D:\\DEV\\Aulas Senai Back-end\\AtivProjLHPet\\wwwroot\\",
+      "BasePath": "_content/AtivProjLHPet",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\DEV\\Aulas Senai Back-end\\AtivProjLHPet\\wwwroot\\index.html",
+      "SourceId": "AtivProjLHPet",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DEV\\Aulas Senai Back-end\\AtivProjLHPet\\wwwroot\\",
+      "BasePath": "_content/AtivProjLHPet",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DEV\\Aulas Senai Back-end\\AtivProjLHPet\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AtivProjLHPet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AtivProjLHPet.props",
+      "PackagePath": "build\\AtivProjLHPet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AtivProjLHPet.props",
+      "PackagePath": "buildMultiTargeting\\AtivProjLHPet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AtivProjLHPet.props",
+      "PackagePath": "buildTransitive\\AtivProjLHPet.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
